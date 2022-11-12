@@ -1,7 +1,5 @@
 # Fathom-Growth-Solutions-Website
 
-# Titan_Da_DeCoy
-
 ## Description
 A website for a digital development firm
 
