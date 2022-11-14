@@ -36,4 +36,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: 
+Sitemap: https://fathom-growth-solutions.vercel.app/
